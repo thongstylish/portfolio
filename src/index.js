@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "https://github.com/thongstylish/portfolio/src/index.css";
-import App from "https://github.com/thongstylish/portfolio/src/App";
+import "./index.css";
+import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(

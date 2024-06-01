@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
-import Preloader from "../src/components/Pre";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home/Home";
-import About from "./components/About/About";
-import Experience from "./components/Experience/Experience";
-import Resume from "./components/Resume/ResumeNew";
+import Preloader from "https://github.com/thongstylish/portfolio/src/components/Pre";
+import Navbar from "https://github.com/thongstylish/portfolio/components/Navbar";
+import Home from "https://github.com/thongstylish/portfolio/components/Home/Home";
+import About from "https://github.com/thongstylish/portfolio/components/About/About";
+import Experience from "https://github.com/thongstylish/portfolio/components/Experience/Experience";
+import Resume from "https://github.com/thongstylish/portfolio/components/Resume/ResumeNew";
 import {
   BrowserRouter as Router,
   Route,
@@ -12,8 +12,8 @@ import {
   Navigate
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
-import "./style.css";
-import "./App.css";
+import "https://github.com/thongstylish/portfolio/src/style.css";
+import "https://github.com/thongstylish/portfolio/src/App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {

@@ -1,6 +1,20 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+import { SiKubernetes } from "react-icons/si";
+import { FaDocker } from "react-icons/fa";
+import { FiGitlab } from "react-icons/fi";
+import { SiGrafana } from "react-icons/si";
+import { SiPrometheus } from "react-icons/si";
+import { SiRancher } from "react-icons/si";
+import { SiLogstash } from "react-icons/si";
+import { SiElasticsearch } from "react-icons/si";
+import { SiApachekafka } from "react-icons/si";
+import { SiMinio } from "react-icons/si";
+import { SiHelm } from "react-icons/si";
+import { SiTerraform } from "react-icons/si";
+import { SiAnsible } from "react-icons/si";
+import { FaAmazon } from "react-icons/fa";
+
 import {
   DiJavascript1,
   DiReact,
@@ -23,46 +37,49 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <SiKubernetes  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <FaDocker />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <FiGitlab />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <SiGrafana />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <SiPrometheus  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <SiLogstash   />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <SiRancher  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <SiElasticsearch  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
+        <SiApachekafka  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
+        <SiMinio  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <SiHelm  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <SiAnsible   />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTerraform  />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaAmazon   />
       </Col>
     </Row>
   );

@@ -21,7 +21,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              As a seasoned DevOps Engineer with over two years of experience, 
+              As a seasoned DevOps Engineer with over three years of experience, 
               I specialize in bridging the gap between development and operations, 
               ensuring seamless integration and delivery of software products.
               <br />

@@ -18,7 +18,6 @@ import { FaAmazon } from "react-icons/fa";
 import {
   DiGit,
 } from "react-icons/di";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (

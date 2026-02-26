@@ -2,11 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { FiPhone } from "react-icons/fi";
@@ -26,7 +21,7 @@ function Home2() {
               <br />
               Skilled in architecting hybrid platforms with VPC segmentation, CI/CD automation, observability, and infrastructure security.
               <i>
-                <b className="purple"> (CI/CD) pipelines. </b>
+                <b className="purple"> infrastructure security. </b>
               </i>
               <br />
               <br />

@@ -16,21 +16,8 @@ import { SiAnsible } from "react-icons/si";
 import { FaAmazon } from "react-icons/fa";
 
 import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
   DiGit,
-  DiJava,
 } from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {

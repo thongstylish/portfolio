@@ -11,9 +11,11 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Tran Thanh Thong </span>
             from <span className="purple"> Ho Chi Minh city, VietNam.</span>
             <br />
-              I am currently employed as a Devops Engineer at Apollo technology solutions.
+               I build and operate infrastructure.
             <br />
-              I majored in information technology at Ho Chi Minh City University of Technical Education.
+              Over the past few years, I’ve worked on designing scalable systems, automating deployments, and hardening production environments across cloud and on-premise setups.
+            <br />
+              I enjoy solving operational challenges and continuously improving reliability, security, and deployment workflows.
             <br />
           </p>
         </blockquote>

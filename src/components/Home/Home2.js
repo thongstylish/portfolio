@@ -21,20 +21,16 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              As a seasoned DevOps Engineer with over three years of experience, 
-              I specialize in bridging the gap between development and operations, 
-              ensuring seamless integration and delivery of software products.
+              DevOps and Cloud Infrastructure Engineer with extensive experience designing and operating scalable, secure, and reliable infrastructure across cloud and on-premise environments
               <br />
               <br />
-              My expertise lies in automating workflows, optimizing cloud infrastructure, 
-              and enhancing continuous integration and deployment
+              Skilled in architecting hybrid platforms with VPC segmentation, CI/CD automation, observability, and infrastructure security.
               <i>
                 <b className="purple"> (CI/CD) pipelines. </b>
               </i>
               <br />
               <br />
-              I am committed to continuous learning and staying abreast of industry trends to deliver high-quality, 
-              reliable software solutions.
+              Proven ability to adapt to different cloud providers and deliver robust solutions that support multi-environment and multi-country operations.
               <br />
               <br />
             </p>
